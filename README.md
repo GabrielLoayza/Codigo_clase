@@ -1,5 +1,3 @@
-# Codigo_clase
-DE las clases
 #include <iostream>
 
 
