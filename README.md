@@ -26,6 +26,5 @@ int main()
     t3=t3%60;
     cout<<"EL ángulo resultante es: \nG1: "<<t1<<endl<<"M1: "<<t2<<endl<<"S1: "<<t3;
     cin>>c1;
-
     return 0;
 }
